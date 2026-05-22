@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(30, 20, 30);
+    width: 600px;
+    margin: auto;
+}
+h1{
+    width: 600px;
+    text-align: center;
+    background-color: rgb(200, 150, 200);
+    margin-left: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 48px;
+}
+div.pagina{
+    border-top: 10px solid black;
+    border-bottom: 10px solid black;
+    background-color: rgb(200, 150, 200);
+}
+td.meio{
+    width: 50%;
+}
+td.musica{
+    text-align: center;
+    font-size: 24px;
+    border: 5px solid black;
+    border-radius: 20px;
+    background-color: rgb(150, 200, 200);
+}
+iframe{
+    margin: auto;
+    text-align: center;
+}
+table{
+    width: 100%;
+}
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    text-align: left;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+hr{
+    height: 3px;
+    background-color: black;
+    border: none;
+}
+.menuP{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.menu{
+    margin-top: 0;
+}
+img{
+    width: 77%;
+    cursor: pointer;
+}
+.center{
+    text-align: center;
+    font-size: 3em;
+}
